@@ -2,7 +2,7 @@
 
 ---
  
-
+<p>Sorting Algorithms Python Program</p>
 <a href="https://joseramirez98.github.io/SortingAlgorithms/"> Click here to go to the respository!</a>
 
 ---
