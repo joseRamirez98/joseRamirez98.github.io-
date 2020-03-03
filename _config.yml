@@ -1,10 +1,10 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Jose Ramirez # your name (or website title) here
+logo: "/images/logo.png?raw=false" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>Currently a student a California State University of Sacramento studying computer science<br>
   Second description 
-  <br><br>
+  <br>I love learning. Whether that be learning a new programming library, or how to fill out my own W2, I enjoy the process of learning.<br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
