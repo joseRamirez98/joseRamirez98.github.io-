@@ -5,5 +5,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>I love learning. Whether that be learning a new programming library, or how to fill out my own W2, I enjoy the process of learning.<br>
   <a href="https://www.linkedin.com/in/josem-jramirez/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
