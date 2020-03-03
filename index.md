@@ -1,1 +1,1 @@
-<img src="Resume.pdf?raw=true">
+<img src="images/Resume.pdf?raw=true">
