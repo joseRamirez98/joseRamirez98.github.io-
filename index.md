@@ -3,7 +3,6 @@
 ---
  
 
-[Sorting Algorithms](/sample_page)
 <a href="https://joseramirez98.github.io/SortingAlgorithms/"> Click here to go to the respository!</a>
 
 ---
